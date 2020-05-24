@@ -5,3 +5,6 @@ Use at your own risk, make sure to clear your cache every so often.
 (No bans) as the API is never touched. 
 
 To be used with POI, KCCache Proxy & KC3 KaiNi (Whenb released)
+
+To use: 
+Download hte master and set the KCS2 folder inside your Kancolle folder inside of the 3rd Party Cache folder
