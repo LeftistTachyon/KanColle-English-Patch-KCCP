@@ -1,4 +1,6 @@
 # KanColle English Textures
+![](https://i.imgur.com/kYiiHRo.png)
+
 Translated textures to be used in the MyCache folder of POI when playing KanColle.
 
 Use at your own risk, make sure to clear your cache every so often.
