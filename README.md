@@ -21,7 +21,7 @@ aren't patched, repeat the process until satisfaction.\
 (be aware some minor stuff still isn't translated)
 
 To disable raw text patching (ship names etc.), open the "EN-patch.mod.json"\
-file and replace ("requireScripts": true,) with ("requireScripts": false,).\
+file and replace `"requireScripts": true,` with `"requireScripts": false,`.\
 Don't forget to "Reload mod data"!
 
 ## Special Thanks
